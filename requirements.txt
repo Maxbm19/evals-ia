@@ -1,0 +1,5 @@
+# Solo para re-ejecutar el notebook demo_extraccion.ipynb; los scripts de demo/ usan la biblioteca estándar
+matplotlib>=3.8
+
+# Opcional, solo para demo/extraer_con_claude.py (necesita ANTHROPIC_API_KEY y cuesta plata)
+# anthropic
